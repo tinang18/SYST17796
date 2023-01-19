@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel
+ * @author Tina Nguyen
  */
 public class StudList {
 
